@@ -1,0 +1,15 @@
+1. Abstract Class :
+> Abstract method
+> Non Abstract method
+> Constructor
+> Key word : extends
+
+2. Interface 
+
+
+
+
+
+
+
+
